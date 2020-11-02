@@ -21,6 +21,7 @@ The Simple Blog App Built with Flask
     $ from blog import db
     $ db.create_all()
     ```
+- Set SECRET_KEY in Heroku account, menu: Config Vars
 
 ## Live Demo on Heroku
 
