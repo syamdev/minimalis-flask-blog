@@ -21,3 +21,7 @@ The Simple Blog App Built with Flask
     $ from blog import db
     $ db.create_all()
     ```
+
+## Live Demo on Heroku
+
+http://minimalisflaskblog.herokuapp.com/
